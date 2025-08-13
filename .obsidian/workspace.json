@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "6ee9eff871c13df8",
+    "type": "split",
+    "children": [
+      {
+        "id": "25eeb8db02e0cd41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b5d68fab8b9e500",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Material Aulas/Estrutura de Dados 01/Exercícios/Lista 00.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lista 00"
+            }
+          },
+          {
+            "id": "3288681aa15cc09d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computação Gráfica/CG-UFPA-Trabalhos/Material das aulas/Slides de Aulas/aula00 - Apresentacao CG 2023.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "aula00 - Apresentacao CG 2023"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be0c81a961ee9ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e36875bbc1240bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86e3696ae546ed3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "78b884881b52f051",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cfe0c417ea114c99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f9f53bdd2a5f014",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b865c5e698c5dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30f79c543dec3e93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Material Aulas/Estrutura de Dados 02/Material Teórico/Introducao-ao-C-Parte-I.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introducao-ao-C-Parte-I"
+            }
+          },
+          {
+            "id": "56d3ae43390dcff8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Material Aulas/Estrutura de Dados 02/Material Teórico/Introducao-ao-C-Parte-I.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introducao-ao-C-Parte-I"
+            }
+          },
+          {
+            "id": "6622cca935008cfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d4ee256ea67557b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Material Aulas/Estrutura de Dados 02/Material Teórico/Introducao-ao-C-Parte-I.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introducao-ao-C-Parte-I"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false
+    }
+  },
+  "active": "86e3696ae546ed3f",
+  "lastOpenFiles": [
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__/triangulo.cpython-310.pyc",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__/rotacionaRetaCG.cpython-310.pyc",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__/quadrilatero.cpython-310.pyc",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__/poligonoQualquer.cpython-310.pyc",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__/mudaPosicao.cpython-310.pyc",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__/desenhaMatriz.cpython-310.pyc",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__/desenhaRetaRefatorada.cpython-310.pyc",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__/desenhaRetaCG.cpython-310.pyc",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/triangulo.py",
+    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/rotacionaRetaCG.py",
+    "Computação Gráfica/Animacao2D-CG/README.md",
+    "Computação Gráfica/CG-UFPA-Trabalhos/README.md",
+    "Estrutura_De_Dados_II/README.md",
+    "Sistemas_Distribuidos_UFPA/README.md",
+    "Probabilidade e Estatísitca/README.md",
+    "Computação Gráfica/TrabalhoPratico-02-CG/README.md",
+    "Computação Gráfica/Trabalho-01-CG/README.md",
+    "Material Aulas/Sistemas Distribuídos/Exercícios/Bot Telegram/READ_ME/README.md",
+    "Resumos-Academicos/Árvores Binárias.md",
+    "Material Aulas/Inglês - UFPA/Nivel 01/Resumos/Revisão Inglês.md",
+    "Material Aulas/Inglês - UFPA/Nivel 01/Resumos/Prompts.md",
+    "Estudo_Grafos/README.md",
+    "Welcome.md"
+  ]
+}

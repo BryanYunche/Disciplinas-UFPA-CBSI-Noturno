@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sistema de Coordenadas - Grade de Pixels</title>
+	<link rel="stylesheet" href="style.css"> <!-- Referência ao arquivo CSS -->
+</head>
+<body>
+	<div id="canvas-container">
+		<canvas id="myCanvas" width="900" height="700"></canvas> <!-- Cria um elemento canvas com a largura e altura definidas -->
+	</div>
+
+	<div id="controls-container">
+		<div>
+			<label for="pontos">Pontos:</label>
+			<input type="text" id="pontos" name="pontos" value="[[0, -7], [1, -6], [2, -5], [3, -5]]">
+			<button onclick="desenhar()">Desenhar</button> <!-- Movido o botão de desenhar para este local -->
+		</div>
+		<div>
+		  <label for="x">X:</label>
+		  <input type="text" id="x" name="x" value="0" style="display: inline-block; width: 50px; margin-right: 10px;">
+		  <label for="y">Y:</label>
+		  <input type="text" id="y" name="y" value="0" style="display: inline-block; width: 50px; margin-right: 10px;">
+		  <button onclick="desenhar()" style="display: inline-block;">Desenhar</button>
+		</div>
+
+	</div>
+
+	<script src="funcionalidades.js"></script>
+
+</body>
+</html>
+

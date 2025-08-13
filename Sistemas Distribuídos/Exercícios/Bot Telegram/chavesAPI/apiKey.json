@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "texto-voz-434113",
+  "private_key_id": "bc9f956b802e22924c5d4c3587b578c3bfb15daf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1ILORLM+/0mgx\nq1HC1JH/kdQstUMyUCpdi81pE6T3Upyjf2kndfHmnb4RNiDGCwtxpnxsZYRAvPMV\nxsbz4Xpb7/CNXsfL3Jz8rvAS3ypyp/Jqc3rwI3LnfjIjOzzTZWw2ERUC0mThGkgh\nk3Ts2EEji8Rx9nKkJJi84exb7UlaqWEzYXTNPHlm326+VQh8JWoXpVV0otXjivKi\nUMCDaLYrnDsuRgQpHxsPxsRxjRKO4KOtZR8kaIAMDEDXp85LuUCcgk2k/giHHzNI\noVMDYXMWVtwzMT+OFihMoT3UeJjUmrtuyDmvG+0jxIF82pHJxkL21bTSOH5IthPs\n1kzyAMYbAgMBAAECggEAHb9Efn/zkWIcW/vyWPh8ZJLYsTcGgDQ2S61y4OJUYjdz\nzk5V63XYHV35d0OCgm68mb++s4wV+mPjMHJi/m7Ln7R6YggXnDLxUsvlqykdBD5H\noUAHXXpqRqatKVLInJdi/EY17dlhWVmYUHCymqtcQgWUZSW/55azFw0BD9/v/4Qx\nlx0cv/wMmrmOlfzthfh7MRmKc3VOKXGX/mNyGCZWAOuYZSTGCC3j2ewh/y/BwWmF\n/zQzOQN06f5IaE0pzbLHtiQXQ3sp+aTAAi+Oi0l2NWzyiRfn1h9VuWfi1U61eD3P\naBo0tq5Eom1oAFJebseGA1VI9G0mGeaMp2pP78MHwQKBgQDrKidRoYiV2SsLZmu7\nxfTuxlE7gbowXuALGw8C9mgMDRvezN/pUx2lDXSxDeCMvilI1kDKwf9e+pdk2i6u\nRDtIbBub5ZnsbupePv+00IT1FNgCir/y0RNmIvv0PvAoooeF1CF1qvdy4Im8FM8O\n+nn/7sY8xPReoVan+Q2XDQBo6wKBgQDFLOs1PJYk8T8lqEhanLVMVF8Rmb0dOzod\ntbKH2ukE5fel87V4KMsWx9O8EavFWvwG1Q9fkOKbJKFHd1K8COe+vFJlhUybl3vI\nE52CekcnWI0CxbwKRJ4jVA3/LH7wDdg7eRfFHvKwcWLkqmkf3u7prTyChhrCA2Mi\nfanOX/nLkQKBgCqL0NtK/1wlE02XtSwez4aXqMC8YsQ3lg9MUPX3QLHVeVJg/K3J\nFNb0zUTvPs4X5X5BDS3h1WMIsXVUqBdtTtB2hrQ44RVOp+ZvPXIoO7XflIk5Mysq\nOnlDIRR6gpbHeP90dq1ERkqpZyH5HdEW7hWozILYG2I3jGcNfzDx8D4LAoGAI37g\noObVSLU9XvQagmVvpdwSeUKp7tc4sRyClT5tcHpNyMxEwOrnFKTIkzTDLXYhpME6\nUUPt52wCtLDgbgVUYtvYIXqLvf7ZQ710P4bvxD+GsxcRsO+FYGrDUkqaV3DGmn5E\nLzJREj53RR8AacJiVCLhn8Wwj3i4of7pUMOqXmECgYBLzsOG0PmVKOmS3j/Awkrb\nKaqPXHxhY40Mh0eKcSgoq9b7s8Km8Kv24ocj/bKz9LllfrC6335SW/f8qLn0mU0k\npvc1AeFXNkpMiTfFHFQHOkm+2A8wPtd8EcV07YjEo/sQhQTPTiGNhVuX27lG7EpG\ntaQt0iQYT+Zo0U6TqKVMGw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bryanyoung@texto-voz-434113.iam.gserviceaccount.com",
+  "client_id": "116546431146822631500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bryanyoung%40texto-voz-434113.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
