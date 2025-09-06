@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c8166ac30a058c4d",
+        "id": "f1ae581a35543ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "de1dce259358c45c",
+            "id": "cb632d1bc190b9b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Calculo II/Material Teórico/Unidade-05/Aula-20.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Aula-20"
-            }
-          },
-          {
-            "id": "16aef9ca7aae9c52",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.9.12"
-            }
-          },
-          {
-            "id": "44e7c7925749ff1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,19 +166,21 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "44e7c7925749ff1c",
+  "active": "cb632d1bc190b9b5",
   "lastOpenFiles": [
+    "Calculo II/Material Teórico/Bibliografia e Notas/tabela integrais.pdf",
+    "Calculo II/Material Teórico/Bibliografia e Notas/coordenadas polares.pdf",
+    "Calculo II/Material Teórico/Bibliografia e Notas/Integral Aplicada/Tracado de raio estocatico.pdf",
+    "Calculo II/Material Teórico/Bibliografia e Notas/Integral Aplicada/Tese mestrado Ray tracing_compressed.pdf",
+    "Calculo II/Material Teórico/Bibliografia e Notas/Integral Aplicada/TCC tracao ray distribuido_compressed-1.pdf",
+    "Calculo II/Material Teórico/Bibliografia e Notas/Derivada Aplicada/TCC redes neurais matematica.pdf",
+    "Calculo II/Material Teórico/Bibliografia e Notas/Derivada Aplicada/redes_neurais_compressed.pdf",
+    "Calculo II/Material Teórico/Bibliografia e Notas/Derivada Aplicada/matematica das redes neutrais.pdf",
+    "Calculo II/Material Teórico/Bibliografia e Notas/Integral Aplicada",
+    "Calculo II/Material Teórico/Bibliografia e Notas/Nova pasta",
+    "Calculo II/Material Teórico/Bibliografia e Notas/Derivada Aplicada",
     "README.md",
-    "Calculo II/Material Teórico/Unidade-05/Aula-19.pdf",
-    "Calculo II/Exercícios/Lista 4.pdf",
-    "Calculo II/Material Teórico/Unidade-05/Aula-18.pdf",
-    "Calculo II/Material Teórico/Unidade-05/Aula-20.pdf",
-    "Calculo II/Material Teórico/Unidade-05/Aula-21.pdf",
-    "Calculo II/Material Teórico/Unidade-05/Aula-23.pdf",
-    "Calculo II/Material Teórico/Unidade-05/Aula-22.pdf",
-    "Calculo II/Material Teórico/Resumos",
-    "Calculo II/Material Teórico/Nova pasta",
-    "Computação Gráfica/CG-UFPA-Trabalhos/Algoritmos/__pycache__/triangulo.cpython-310.pyc",
+    "2025-09-04.md",
     "Computação Gráfica/Animacao2D-CG/README.md",
     "Computação Gráfica/CG-UFPA-Trabalhos/README.md",
     "Estrutura_De_Dados_II/README.md",
