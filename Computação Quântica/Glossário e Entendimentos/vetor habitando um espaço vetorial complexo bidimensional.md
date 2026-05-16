@@ -1,0 +1,15 @@
+**1. "Um vetor habitando um espaço vetorial..."** Na computação clássica, a informação é um número isolado e absoluto (como um 5, ou no caso dos bits, 0 ou 1). Na álgebra linear usada pela computação quântica, a informação é uma coleção de números com direção e magnitude, ou seja, um **vetor** (que podemos imaginar como uma flecha). Esse vetor existe dentro de um "cenário" matemático cheio de regras chamado **espaço vetorial**. Para representar esse vetor (o qubit), os cientistas usam a Notação de Dirac, desenhando-o com o símbolo de _ket_: ∣ψ⟩.
+
+**2. "... bidimensional..."** Dizer que o espaço é bidimensional significa que esse cenário possui exatamente duas dimensões fundamentais, que funcionam como os pilares de toda a construção. Na computação quântica, essas duas dimensões são os estados de **base computacional**, representados como os vetores ∣0⟩ e ∣1⟩. Tudo o que o qubit fizer será uma variação matemática dessas duas direções.
+
+**3. "... complexo..."** Diferente do nosso mundo, onde usamos probabilidades com números reais e positivos (como 30% ou 50%), as coordenadas do vetor do qubit utilizam **números complexos** (compostos por partes reais e imaginárias). Essas coordenadas são chamadas de _amplitudes de probabilidade_ (α e β). São esses números complexos que permitem ao qubit ter uma "fase" (uma direção giratória), o que torna possível o cancelamento ou a soma de probabilidades (a interferência) durante os algoritmos.
+
+**4. "... o que permite que ele exista em um continuum de combinações simultâneas de** ∣0⟩ **e** ∣1⟩**, chamado de superposição."** Aqui chegamos na consequência mágica de tudo isso. Como o qubit é um vetor matemático com amplitudes de probabilidade, ele não é obrigado a apontar apenas estritamente para o ∣0⟩ ou estritamente para o ∣1⟩. Ele pode apontar para qualquer proporção intermediária. Matematicamente, ele é a soma (combinação linear) dessas direções: ∣ψ⟩=α∣0⟩+β∣1⟩.
+
+**A Analogia da Moeda e da Esfera:** 
+- Um bit clássico é como uma moeda sobre a mesa: ou a face cara está para cima (0) ou a face coroa está para cima (1).
+- O qubit, sendo esse vetor no espaço bidimensional complexo, pode existir num **continuum** (uma infinidade contínua e sem quebras) de estados entre ∣0⟩ e ∣1⟩.
+
+Geometricamente, os físicos visualizam esse _continuum_ através da **Esfera de Bloch**. O polo norte da esfera representa o estado ∣0⟩ e o polo sul o estado ∣1⟩, mas o vetor do qubit pode apontar para **absolutamente qualquer ponto infinito na superfície dessa esfera**.
+
+**O ato de existir espalhado por esses infinitos pontos intermediários** (misturando porções de ∣0⟩ e ∣1⟩ ao mesmo tempo) é exatamente o que chamamos de **superposição**. No entanto, a regra quântica dita que, no instante em que você medir (olhar) o qubit, essa superposição colapsa, e ele "escolhe" revelar apenas um resultado final, sendo ele 0 ou 1.
