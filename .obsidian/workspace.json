@@ -25,14 +25,12 @@
             "id": "a04939e20227bf4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computação Quântica/Exercicios/Avaliação 01 - Respostas.md",
-                "mode": "source",
-                "source": false
+                "file": "Computação Quântica/Exercicios/Avaliação-1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Avaliação 01 - Respostas"
+              "icon": "lucide-file-text",
+              "title": "Avaliação-1"
             }
           },
           {
@@ -47,8 +45,7 @@
               "title": "Cap-00"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2f9f53bdd2a5f014",
@@ -197,8 +195,10 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "a04939e20227bf4f",
+  "active": "3dede0d8e38307d9",
   "lastOpenFiles": [
+    "Computação Quântica/Exercicios/Avaliacao-01.ipynb",
+    "Computação Quântica/Exercicios/QuantumProject.ipynb",
     "Computação Quântica/Exercicios/Avaliação-1.pdf",
     "Computação Quântica/Exercicios/Avaliação 01 - Respostas.md",
     "Computação Quântica/Glossário e Entendimentos/vetor habitando um espaço vetorial complexo bidimensional.md",
@@ -212,7 +212,6 @@
     "Computação Quântica/Material Professor/Slide-01.pdf",
     "Computação Quântica/Material Professor/Cap-01.pdf",
     "Computação Quântica/Material Professor/Hello-World-QisKit.ipynb",
-    "Computação Quântica/Ementa da Disciplina.pdf",
     "README.md",
     "2025-09-04.md",
     "Computação Gráfica/Animacao2D-CG/README.md",
