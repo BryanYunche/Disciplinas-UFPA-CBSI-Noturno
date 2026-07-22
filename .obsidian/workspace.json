@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93bbfb58eecf0ae8",
+        "id": "e5743ea5ffe94e5b",
         "type": "tabs",
         "children": [
           {
-            "id": "3dede0d8e38307d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computação Quântica/Exercicios/Avaliação 01 - Respostas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Avaliação 01 - Respostas"
-            }
-          },
-          {
-            "id": "a04939e20227bf4f",
+            "id": "e280e49ae68439fb",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -31,18 +17,6 @@
               },
               "icon": "lucide-file-text",
               "title": "Avaliação-1"
-            }
-          },
-          {
-            "id": "e552586f04cf595b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computação Quântica/Material Professor/Cap-00.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Cap-00"
             }
           }
         ]
@@ -102,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2f9f53bdd2a5f014",
@@ -195,23 +168,32 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "3dede0d8e38307d9",
+  "active": "e280e49ae68439fb",
   "lastOpenFiles": [
+    "Computação Quântica/Exercicios/Avaliação 01 - Respostas.md",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-18-04.png",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-18-01.png",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-03.jpg",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-18-02.png",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-18-03.png",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-14-03.jpg",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-14-02.jpg",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-14-01.jpg",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-13.jpg",
+    "Computação Quântica/Exercicios/midias/ava-01-prb-12.jpg",
+    "Computação Quântica/Exercicios/Avaliação-1.pdf",
+    "Computação Quântica/Material Professor/Cap-00.pdf",
+    "Computação Quântica/Exercicios/midias",
     "Computação Quântica/Exercicios/Avaliacao-01.ipynb",
     "Computação Quântica/Exercicios/QuantumProject.ipynb",
-    "Computação Quântica/Exercicios/Avaliação-1.pdf",
-    "Computação Quântica/Exercicios/Avaliação 01 - Respostas.md",
     "Computação Quântica/Glossário e Entendimentos/vetor habitando um espaço vetorial complexo bidimensional.md",
     "Computação Quântica/Glossário e Entendimentos/Entendimentos Sobre Computação Quântica.md",
     "Computação Quântica/Projetos/Ambiente Quantico.pdf",
-    "Computação Quântica/Material Professor/Cap-00.pdf",
     "Computação Quântica/Glossário e Entendimentos",
     "Computação Quântica/Projetos/Hello-World-QisKit.ipynb",
     "Computação Quântica/Projetos",
     "Computação Quântica/Material Professor/Roadmap do Professor.md",
     "Computação Quântica/Material Professor/Slide-01.pdf",
-    "Computação Quântica/Material Professor/Cap-01.pdf",
-    "Computação Quântica/Material Professor/Hello-World-QisKit.ipynb",
     "README.md",
     "2025-09-04.md",
     "Computação Gráfica/Animacao2D-CG/README.md",
